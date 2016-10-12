@@ -15,8 +15,8 @@ img {
 h1 {
 	font-family: Arial;
 	text-align: center;
-	color: #79a498;
-	font-size: 70px;
+	color: orange; <!-- #79a498; -->
+	font-size: 30px;
 }
 
 ul {

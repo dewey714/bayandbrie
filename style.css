@@ -1,6 +1,7 @@
 header {
 	background: url(assets/background.jpg);
-	background-size: cover;
+	
+	background-position: top;
 	text-align: center;
 }
 
@@ -13,7 +14,7 @@ img {
 }
 
 h1 {
-	font-family: Arial;
+	font-family: Courier;
 	text-align: center;
 	color: orange; <!-- #79a498; -->
 	font-size: 30px;
